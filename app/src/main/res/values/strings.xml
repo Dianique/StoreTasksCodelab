@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StoreTasksCodelab</string>
+    <string name="add_word">word_adds</string>
+</resources>
